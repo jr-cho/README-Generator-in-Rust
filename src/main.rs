@@ -33,7 +33,7 @@ fn main() {
         .expect("Failed to read line");
 
     let readme_content = format!(
-        "# {}\n\n## Description\n{}\n\n## Installation\n```\n{}\n```\n\n## Usage\n```\n{}\n```\n\n## More\nYou can find more of my work at [{}](www.github.com/{})",
+        "# {}\n\n## Description\n{}\n\n## Installation\n```\n{}\n```\n\n## Usage\n```\n{}\n```\n\n## More\nYou can find more of my work at [{}](https://github.com/{})",
         title.trim(),
         description.trim(),
         installation.trim(),
