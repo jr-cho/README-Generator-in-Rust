@@ -14,4 +14,4 @@ cargo build
 ```
 
 ## More
- You can find more of my work at [jr-cho](www.github.com/jr-cho)
+ You can find more of my work at [jr-cho](https://github.com/jr-cho)
