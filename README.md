@@ -5,7 +5,7 @@ Creates a custom README file for your github repositories
 
 ## Installation
 ```
-https://github.com/jr-cho/README-Generator-in-Rust.git
+git clone https://github.com/jr-cho/README-Generator-in-Rust.git
 ```
 
 ## Usage
