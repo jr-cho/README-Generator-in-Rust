@@ -10,6 +10,7 @@ git clone https://github.com/jr-cho/README-Generator-in-Rust.git
 
 ## Usage
 ```
+cargo build
 cargo run
 ```
 
